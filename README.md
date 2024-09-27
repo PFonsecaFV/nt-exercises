@@ -1,35 +1,25 @@
 <div align="center">
-  
-  # 🚀 FORMA NT - EXERCISES 🚀
 
-  ### Hello all good! I'm Patrick Fonseca 🤓
-  
+# 🚀 FORMA NT 🚀
+
+## Sistema de Vendas de Ingressos via Terminal
+
+# 🎥 Cine Tickets
+
+---
+
+### 🚧 Sistema em desenvolvimento 🚧
+
 </div>
 
-##
+# 🎯 Exercises - Week 03
 
-<div align="center">
-  <h3>Languages, technologies and tools I'm using in this repo:</h3>
-  <p align="center">
-    <a href="https://github.com/PFonsecaFV/PFonsecaFV">
-      <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
-      <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_intellij.svg" width="60" fill="none" />
-    </a>
-  </p>
-</div>
-  
----
-
-## 🎯 [Exercises - Week 01](https://github.com/PFonsecaFV/nt-exercises/tree/exercises-week-01)
-
----
-
-## 🎯 [Exercises - Week 02](https://github.com/PFonsecaFV/nt-exercises/tree/exercises-week-02)
-
----
-
-## 🎯 [Exercises - Week 03](https://github.com/PFonsecaFV/nt-exercises/tree/exercises-week-03)
-
+- [ ] 1 - Sistema utilizando Scanner para entrada e saída de dados
+- [ ] 2 - Cadastro de Clientes
+- [ ] 3 - Cadastro de Funcionários
+- [ ] 4 - Cadastro de Filmes e CRUD para atualização de dados
+- [ ] 5 - Sistema para criptografia de senhas
+- [ ] 6 - ...
 
 ---
 
